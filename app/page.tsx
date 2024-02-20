@@ -4,7 +4,7 @@ import Image from "next/image";
 export default function Home() {
   return (
     <main>
-      <Button className="px-10">
+      <Button  className="px-10">
         Hello
       </Button>
     </main>
